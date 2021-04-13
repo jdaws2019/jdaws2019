@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdaws2019
 - 👀 I’m interested in Powershell, Python, SQL
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on Raspberry Pi Projects!
 - 📫 How to reach me Linked In
 
